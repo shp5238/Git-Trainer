@@ -46,12 +46,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![Watch the video walkthrough](https://cdn.loom.com/sessions/thumbnails/43a11495374d481d81d4b3e948217bb6-with-play.gif)](https://www.loom.com/share/43a11495374d481d81d4b3e948217bb6)
-
-*Video Walkthrough — Click to watch on Loom*
+<div style="position: relative; padding-bottom: 52.916666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/43a11495374d481d81d4b3e948217bb6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+GIF created with Loom, [click here](https://www.loom.com/share/43a11495374d481d81d4b3e948217bb6)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
